@@ -3,7 +3,7 @@
 ## Description
 Changsha dialect pronunciation dictionary contains more than 60,000 entries, each of which contains words and international phonetic symbols. Produced by Changsha dialect linguistics experts with accurate phonetic transcription. Applicable to the research and development of Changsha dialect recognition technology.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1013?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets/pronunciation/1013?source=Github
 
 
 # Specifications
